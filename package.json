@@ -27,7 +27,7 @@
 		"index.js"
 	],
 	"dependencies": {
-		"closest-number": "^1.0.2",
+		"closest-number": "^1.0.3",
 		"hex-rgb": "^3.0.0",
 		"lodash.range": "^3.2.0",
 		"rgb-hex": "^2.1.0",
